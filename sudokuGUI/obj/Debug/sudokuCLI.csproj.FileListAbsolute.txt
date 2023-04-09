@@ -1,0 +1,21 @@
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe.config
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.exe
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\bin\Debug\sudokuCLI.pdb
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.AssemblyReference.cache
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.Form1.resources
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.Properties.Resources.resources
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.GenerateResource.cache
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.exe
+C:\Users\SzigiliEM\source\repos\sudokuCLI\sudokuCLI\obj\Debug\sudokuCLI.pdb
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\bin\Debug\sudokuCLI.exe.config
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\bin\Debug\sudokuCLI.exe
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\bin\Debug\sudokuCLI.pdb
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\obj\Debug\sudokuCLI.csproj.AssemblyReference.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\obj\Debug\sudokuCLI.csproj.SuggestedBindingRedirects.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\obj\Debug\sudokuCLI.Form1.resources
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\obj\Debug\sudokuCLI.Properties.Resources.resources
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\obj\Debug\sudokuCLI.csproj.GenerateResource.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\obj\Debug\sudokuCLI.csproj.CoreCompileInputs.cache
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\obj\Debug\sudokuCLI.exe
+G:\Szoftverfejlesztés\Kandós cuccok\C# - Kasza László Róbert\Összes Saját C#\073. SudokuGUI\sudokuGUI\obj\Debug\sudokuCLI.pdb
